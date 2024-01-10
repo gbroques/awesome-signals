@@ -48,6 +48,10 @@ Contributions are welcomed! Start a discussion, create an issue, or submit a pul
 * [📰 5 Ways SolidJS Differs from Other JS Frameworks - Ryan Carniato](https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63)
 * [📰 Deep Dive Into How Signals Work In SolidJS - Maarten Bicknese](https://www.thisdot.co/blog/deep-dive-into-how-signals-work-in-solidjs)
 
+### Angular
+
+* [📰 Signals - Angular](https://angular.io/guide/signals)
+
 ## People
 
 * Ryan Carniato - author of [SolidJS](https://www.solidjs.com/)
