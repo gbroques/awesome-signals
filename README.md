@@ -40,7 +40,7 @@ Contributions are welcomed! Start a discussion, create an issue, or submit a pul
 
 * [📰 Introducing Signals - Preact](https://preactjs.com/blog/introducing-signals/)
 * [📰 Signals - Preact](https://preactjs.com/guide/v10/signals/)
-* [💬 On Preact modifying React's Internals - Dan Abromov](https://github.com/facebook/react/issues/26704#issuecomment-1522044060)
+* [💬 On Preact modifying React's Internals - Dan Abramov](https://github.com/facebook/react/issues/26704#issuecomment-1522044060)
 
 ### SolidJS
 
