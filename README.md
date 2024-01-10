@@ -52,6 +52,10 @@ Contributions are welcomed! Start a discussion, create an issue, or submit a pul
 
 * [📰 Signals — Angular](https://angular.io/guide/signals)
 
+### Vue
+
+* [📰 Reactivity in Depth: Connection to Signals — Vue](https://vuejs.org/guide/extras/reactivity-in-depth.html#connection-to-signals)
+
 ## People
 
 * Ryan Carniato — author of [SolidJS](https://www.solidjs.com/)
