@@ -8,6 +8,7 @@ Lists within each section should be roughly ordered by most useful to least usef
 
 * [[YouTube] Why Signals Are Better Than React Hooks - Web Dev Simplified](https://www.youtube.com/watch?v=SO8lBVWF2Y8)
 * [[Article] Introducing Signals - Preact](https://preactjs.com/blog/introducing-signals/)
+* [[Article] Making the Case for Signals in JavaScript - Ryan Carniato](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
 * [[Article] Why Signals Are Better Than React Hooks - Mehran Mousavi](https://www.linkedin.com/pulse/why-signals-better-than-react-hooks-mehran-mousavi-eykce/)
 
 ## What
