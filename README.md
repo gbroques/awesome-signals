@@ -23,6 +23,7 @@ Lists within each section should be roughly ordered by most useful to least usef
 
 ## Criticism
 
+* [[Article] React vs Signals: 10 Years Later - Ryan Carniato](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
 * [[Thread] Why are signals still not so popular? - Reddit](https://www.reddit.com/r/reactjs/comments/14tzwdw/why_are_signals_still_not_so_popular/)
 
 ## People
