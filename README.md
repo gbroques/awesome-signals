@@ -20,6 +20,7 @@ Lists within each section should be roughly ordered by most useful to least usef
 
 * [[Article] Signals - Preact](https://preactjs.com/guide/v10/signals/)
 * [[Article] Thinking Locally with Signals - Ryan Carniato](https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h)
+* [[Article] Building a Reactive Library from Scratch - Ryan Carniato](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 * [[Article] Deep Dive Into How Signals Work In SolidJS - Maarten Bicknese](https://www.thisdot.co/blog/deep-dive-into-how-signals-work-in-solidjs)
 * [[Comment] On Preact modifying React's Internals - Dan Abromov](https://github.com/facebook/react/issues/26704#issuecomment-1522044060)
 
