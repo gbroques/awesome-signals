@@ -38,12 +38,12 @@ The following is a legend for what each emoji means in the title:
 
 * [📰 Introducing Signals - Preact](https://preactjs.com/blog/introducing-signals/)
 * [📰 Signals - Preact](https://preactjs.com/guide/v10/signals/)
-* [ 💬 On Preact modifying React's Internals - Dan Abromov](https://github.com/facebook/react/issues/26704#issuecomment-1522044060)
+* [💬 On Preact modifying React's Internals - Dan Abromov](https://github.com/facebook/react/issues/26704#issuecomment-1522044060)
 
 ### SolidJS
 
 * [📰 5 Places SolidJS is not the Best - Ryan Carniato](https://dev.to/this-is-learning/5-places-solidjs-is-not-the-best-5019)
-* [📰 5 Ways SolidJS Differs from Other JS Framework s - Ryan Carniato](https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63)
+* [📰 5 Ways SolidJS Differs from Other JS Frameworks - Ryan Carniato](https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63)
 * [📰 Deep Dive Into How Signals Work In SolidJS - Maarten Bicknese](https://www.thisdot.co/blog/deep-dive-into-how-signals-work-in-solidjs)
 
 ## People
