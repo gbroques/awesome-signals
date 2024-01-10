@@ -11,7 +11,7 @@ The following is a legend for what each emoji means in the title:
 * 🧵 - Thread
 * 💬 - Comment
 
-## Motivation
+## Why
 
 * [📺 Why Signals Are Better Than React Hooks - Web Dev Simplified](https://www.youtube.com/watch?v=SO8lBVWF2Y8)
 * [📰 Why Signals Are Better Than React Hooks - Mehran Mousavi](https://www.linkedin.com/pulse/why-signals-better-than-react-hooks-mehran-mousavi-eykce/)
